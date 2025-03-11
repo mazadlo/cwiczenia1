@@ -1,1 +1,3 @@
 # cwiczenia1
+
+laboratoria
