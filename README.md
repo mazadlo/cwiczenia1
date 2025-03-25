@@ -8,4 +8,5 @@ edycja
 dopisanie
 2dopisanie
 próba pull
+ostatni test
 
